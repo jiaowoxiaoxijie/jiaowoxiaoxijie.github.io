@@ -1,0 +1,8 @@
+title: 邪恶天使-堕落城.GitHub.io
+description: 请叫我小熙姐
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
